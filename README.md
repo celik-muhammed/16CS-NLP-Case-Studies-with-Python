@@ -14,7 +14,7 @@
   
 <h3 align='right'>
   
-[16P-NLP-Projects-with-Python](https://github.com/celik-muhammed/16P-NLP-Projects-with-Python/blob/master/README.md)
+[16P NLP Projects with Python](https://github.com/celik-muhammed/16P-NLP-Projects-with-Python/blob/master/README.md)
 </h3>
 
   
